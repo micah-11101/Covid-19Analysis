@@ -1,0 +1,486 @@
+GeoFips,GeoName,LineCode,Description,2016,2017,2018,2019,2020,2021,2022,2023
+00000,United States,1,Real GDP (millions of chained 2017 dollars) 1,19141672.0,19612102.0,20193896.0,20692087.0,20234074.0,21407692.0,21822037.0,22376906.0
+00000,United States,2,Chain-type quantity indexes for real GDP,97.601,100.000,102.967,105.507,103.171,109.156,111.268,114.097
+00000,United States,3,Current-dollar GDP (millions of current dollars),18804913.0,19612102.0,20656516.0,21521395.0,21322950.0,23594031.0,25744108.0,27360935.0
+00000,United States,4,Compensation (millions of dollars),9977096.0,10434978.0,10967687.0,11459776.0,11602288.0,12556629.0,13455238.0,(NA)
+00000,United States,5,Gross operating surplus (millions of dollars),7580439.0,7873027.0,8295055.0,8601459.0,8857004.0,9848221.0,10606096.0,(NA)
+00000,United States,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),1247378.0,1304097.0,1393774.0,1460160.0,863658.0,1189181.0,1682774.0,(NA)
+00000,United States,7,"  Taxes on production and imports (TOPI) (millions of dollars)",1309125.0,1363972.0,1457093.0,1533117.0,1520513.0,1671921.0,1810222.0,(NA)
+00000,United States,8,"  Subsidies (millions of dollars)",-61748.0,-59875.0,-63320.0,-72957.0,-656856.0,-482741.0,-127449.0,(NA)
+01000,Alabama,1,Real GDP (millions of chained 2017 dollars) 1,212862.8,216615.5,220808.8,224944.6,222081.4,231892.6,235807.3,241753.1
+01000,Alabama,2,Chain-type quantity indexes for real GDP,98.268,100.000,101.936,103.845,102.523,107.053,108.860,111.605
+01000,Alabama,3,Current-dollar GDP (millions of current dollars),208824.3,216615.5,226263.8,234526.4,235118.3,257986.5,281569.0,300151.9
+01000,Alabama,4,Compensation (millions of dollars),112832.2,116587.1,121558.4,126964.7,129833.7,139053.7,148887.5,(NA)
+01000,Alabama,5,Gross operating surplus (millions of dollars),83556.4,87147.3,91126.8,93615.7,97399.5,107928.2,116247.3,(NA)
+01000,Alabama,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),12435.7,12881.0,13578.5,13946.1,7885.1,11004.5,16434.2,(NA)
+01000,Alabama,7,"  Taxes on production and imports (TOPI) (millions of dollars)",12969.4,13457.8,14062.7,14561.9,15347.6,16426.0,17363.2,(NA)
+01000,Alabama,8,"  Subsidies (millions of dollars)",-533.7,-576.8,-484.1,-615.8,-7462.5,-5421.5,-929.1,(NA)
+02000,Alaska,1,Real GDP (millions of chained 2017 dollars) 1,53463.9,53550.9,52479.6,52325.3,50344.6,51021.8,50315.1,53006.3
+02000,Alaska,2,Chain-type quantity indexes for real GDP,99.837,100.000,97.999,97.711,94.013,95.277,93.958,98.983
+02000,Alaska,3,Current-dollar GDP (millions of current dollars),51121.8,53550.9,54762.0,54469.9,51261.5,58646.0,65698.8,67337.4
+02000,Alaska,4,Compensation (millions of dollars),27189.7,27153.8,28290.1,29023.5,28358.1,29276.9,30946.8,(NA)
+02000,Alaska,5,Gross operating surplus (millions of dollars),20745.8,22748.0,22229.4,21288.8,20762.2,26346.5,30133.7,(NA)
+02000,Alaska,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3186.3,3649.1,4242.5,4157.6,2141.2,3022.6,4618.3,(NA)
+02000,Alaska,7,"  Taxes on production and imports (TOPI) (millions of dollars)",3315.1,3754.4,4351.8,4266.1,3818.5,4191.1,4881.7,(NA)
+02000,Alaska,8,"  Subsidies (millions of dollars)",-128.8,-105.3,-109.4,-108.4,-1677.3,-1168.5,-263.4,(NA)
+04000,Arizona,1,Real GDP (millions of chained 2017 dollars) 1,319008.4,333099.0,346398.3,359645.7,362603.5,390805.2,403474.2,414273.3
+04000,Arizona,2,Chain-type quantity indexes for real GDP,95.770,100.000,103.993,107.970,108.858,117.324,121.127,124.369
+04000,Arizona,3,Current-dollar GDP (millions of current dollars),313787.1,333099.0,353671.0,375545.0,386443.5,432279.8,475653.7,508344.5
+04000,Arizona,4,Compensation (millions of dollars),170872.2,181242.0,193323.4,204537.4,214321.6,233548.2,252446.2,(NA)
+04000,Arizona,5,Gross operating surplus (millions of dollars),121949.7,130081.7,137161.3,147056.4,160922.8,179853.6,194428.3,(NA)
+04000,Arizona,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),20965.2,21775.2,23186.3,23951.2,11199.2,18878.1,28779.2,(NA)
+04000,Arizona,7,"  Taxes on production and imports (TOPI) (millions of dollars)",21647.8,22512.2,23976.3,24779.1,24782.1,27511.5,30494.7,(NA)
+04000,Arizona,8,"  Subsidies (millions of dollars)",-682.6,-737.0,-790.0,-827.9,-13583.0,-8633.5,-1715.5,(NA)
+05000,Arkansas,1,Real GDP (millions of chained 2017 dollars) 1,123034.9,123882.6,126371.2,127216.0,128061.2,135568.8,137355.5,140784.7
+05000,Arkansas,2,Chain-type quantity indexes for real GDP,99.316,100.000,102.009,102.691,103.373,109.433,110.876,113.644
+05000,Arkansas,3,Current-dollar GDP (millions of current dollars),120987.4,123882.6,129213.8,132637.2,135884.5,151931.9,165989.3,176240.1
+05000,Arkansas,4,Compensation (millions of dollars),66183.3,68590.2,70973.5,73920.3,75944.9,81663.8,88180.0,(NA)
+05000,Arkansas,5,Gross operating surplus (millions of dollars),46274.1,46429.6,48983.4,49781.0,53982.1,62000.6,66372.1,(NA)
+05000,Arkansas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),8530.1,8862.8,9257.0,8935.8,5957.4,8267.5,11437.2,(NA)
+05000,Arkansas,7,"  Taxes on production and imports (TOPI) (millions of dollars)",9295.8,9687.9,10084.4,10143.5,10514.4,11711.1,12460.5,(NA)
+05000,Arkansas,8,"  Subsidies (millions of dollars)",-765.7,-825.1,-827.5,-1207.6,-4557.0,-3443.6,-1023.2,(NA)
+06000,California,1,Real GDP (millions of chained 2017 dollars) 1,2623711.7,2740550.3,2850970.3,2962792.1,2925146.9,3146185.3,3167460.8,3233151.0
+06000,California,2,Chain-type quantity indexes for real GDP,95.737,100.000,104.029,108.109,106.736,114.801,115.578,117.975
+06000,California,3,Current-dollar GDP (millions of current dollars),2586485.2,2740550.3,2899530.9,3062158.9,3068809.4,3416939.4,3641643.4,3862171.4
+06000,California,4,Compensation (millions of dollars),1378246.5,1460857.7,1540875.1,1624291.2,1675326.1,1849531.4,1930487.2,(NA)
+06000,California,5,Gross operating surplus (millions of dollars),1048498.2,1113553.2,1176918.8,1232346.9,1251175.4,1394698.7,1477081.5,(NA)
+06000,California,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),159740.5,166139.4,181736.9,205520.9,142307.9,172709.3,234074.7,(NA)
+06000,California,7,"  Taxes on production and imports (TOPI) (millions of dollars)",167061.0,173541.6,189440.0,213596.2,206827.7,229724.2,252965.5,(NA)
+06000,California,8,"  Subsidies (millions of dollars)",-7320.5,-7402.2,-7703.1,-8075.3,-64519.8,-57014.8,-18890.8,(NA)
+08000,Colorado,1,Real GDP (millions of chained 2017 dollars) 1,337685.2,350209.1,365204.5,383596.0,380921.9,406961.5,416114.4,428040.4
+08000,Colorado,2,Chain-type quantity indexes for real GDP,96.424,100.000,104.282,109.533,108.770,116.205,118.819,122.224
+08000,Colorado,3,Current-dollar GDP (millions of current dollars),330565.9,350209.1,373923.1,397701.6,397612.2,447051.7,491289.0,520389.0
+08000,Colorado,4,Compensation (millions of dollars),182006.1,193227.2,205553.2,219298.9,224468.4,244737.3,265595.9,(NA)
+08000,Colorado,5,Gross operating surplus (millions of dollars),128876.1,135696.0,145506.9,153921.7,162129.0,183147.5,197252.2,(NA)
+08000,Colorado,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),19683.8,21286.0,22863.0,24480.9,11014.8,19166.8,28441.0,(NA)
+08000,Colorado,7,"  Taxes on production and imports (TOPI) (millions of dollars)",20756.7,22422.6,23975.2,25712.7,25721.1,28184.0,30956.6,(NA)
+08000,Colorado,8,"  Subsidies (millions of dollars)",-1072.9,-1136.7,-1112.2,-1231.8,-14706.3,-9017.2,-2515.6,(NA)
+09000,Connecticut,1,Real GDP (millions of chained 2017 dollars) 1,268196.2,273875.1,274582.8,274219.4,258625.0,268846.7,276668.8,282478.5
+09000,Connecticut,2,Chain-type quantity indexes for real GDP,97.926,100.000,100.258,100.126,94.432,98.164,101.020,103.141
+09000,Connecticut,3,Current-dollar GDP (millions of current dollars),264760.4,273875.1,280535.4,285466.4,275801.9,295907.5,319344.8,340181.3
+09000,Connecticut,4,Compensation (millions of dollars),138928.9,140537.4,143441.9,146514.1,146288.7,154722.9,165993.3,(NA)
+09000,Connecticut,5,Gross operating surplus (millions of dollars),107976.0,114927.7,117126.1,118805.3,117606.3,125627.9,132502.1,(NA)
+09000,Connecticut,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),17855.5,18410.0,19967.4,20147.0,11906.9,15556.7,20849.4,(NA)
+09000,Connecticut,7,"  Taxes on production and imports (TOPI) (millions of dollars)",18471.3,18962.1,20540.6,20727.5,20593.4,21325.4,22201.3,(NA)
+09000,Connecticut,8,"  Subsidies (millions of dollars)",-615.8,-552.1,-573.2,-580.5,-8686.5,-5768.6,-1351.9,(NA)
+10000,Delaware,1,Real GDP (millions of chained 2017 dollars) 1,71941.4,69555.6,70856.4,74597.4,72550.3,74436.7,75172.6,74262.8
+10000,Delaware,2,Chain-type quantity indexes for real GDP,103.430,100.000,101.870,107.249,104.305,107.017,108.075,106.767
+10000,Delaware,3,Current-dollar GDP (millions of current dollars),70021.5,69555.6,73376.0,78685.8,77615.1,82952.8,90208.3,93595.1
+10000,Delaware,4,Compensation (millions of dollars),30568.8,31982.2,33269.7,34727.0,34940.2,37124.9,39946.9,(NA)
+10000,Delaware,5,Gross operating surplus (millions of dollars),35748.3,33716.5,35945.1,39590.4,39817.9,42339.0,45477.6,(NA)
+10000,Delaware,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3704.3,3856.9,4161.3,4368.4,2857.1,3489.0,4783.8,(NA)
+10000,Delaware,7,"  Taxes on production and imports (TOPI) (millions of dollars)",3894.5,4045.7,4346.8,4571.4,4611.3,4852.9,5195.0,(NA)
+10000,Delaware,8,"  Subsidies (millions of dollars)",-190.2,-188.8,-185.5,-203.0,-1754.2,-1364.0,-411.2,(NA)
+11000,District of Columbia,1,Real GDP (millions of chained 2017 dollars) 1,132217.8,134298.8,138056.8,138867.4,137762.3,142676.3,144029.6,145493.3
+11000,District of Columbia,2,Chain-type quantity indexes for real GDP,98.450,100.000,102.798,103.402,102.579,106.238,107.246,108.336
+11000,District of Columbia,3,Current-dollar GDP (millions of current dollars),129933.5,134298.8,141240.2,145171.0,146935.3,156139.9,165060.5,174796.1
+11000,District of Columbia,4,Compensation (millions of dollars),88296.5,91577.5,96390.4,98969.6,100960.3,105657.7,111164.4,(NA)
+11000,District of Columbia,5,Gross operating surplus (millions of dollars),37322.6,38296.6,40171.6,41454.3,44147.5,47516.5,49161.2,(NA)
+11000,District of Columbia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4314.3,4424.6,4678.2,4747.1,1827.5,2965.7,4735.0,(NA)
+11000,District of Columbia,7,"  Taxes on production and imports (TOPI) (millions of dollars)",5122.5,5216.1,5540.3,5659.0,5268.1,5674.1,6203.1,(NA)
+11000,District of Columbia,8,"  Subsidies (millions of dollars)",-808.1,-791.4,-862.1,-911.9,-3440.6,-2708.5,-1468.1,(NA)
+12000,Florida,1,Real GDP (millions of chained 2017 dollars) 1,978989.7,1014866.9,1050433.8,1079271.0,1068377.5,1164778.2,1218430.2,1279118.8
+12000,Florida,2,Chain-type quantity indexes for real GDP,96.465,100.000,103.505,106.346,105.273,114.772,120.058,126.038
+12000,Florida,3,Current-dollar GDP (millions of current dollars),964500.8,1014866.9,1072085.6,1127988.6,1140133.0,1292391.3,1439065.0,1579503.1
+12000,Florida,4,Compensation (millions of dollars),513429.6,542128.7,574611.4,606508.6,617831.1,692318.5,762524.4,(NA)
+12000,Florida,5,Gross operating surplus (millions of dollars),374475.4,390863.1,410137.9,429977.5,469546.4,525716.9,565550.3,(NA)
+12000,Florida,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),76595.8,81875.1,87336.3,91502.5,52755.5,74355.9,110990.3,(NA)
+12000,Florida,7,"  Taxes on production and imports (TOPI) (millions of dollars)",79169.1,84352.0,89923.7,94286.6,93460.4,107673.0,116913.6,(NA)
+12000,Florida,8,"  Subsidies (millions of dollars)",-2573.3,-2476.9,-2587.4,-2784.1,-40704.9,-33317.1,-5923.3,(NA)
+13000,Georgia,1,Real GDP (millions of chained 2017 dollars) 1,561718.3,583543.3,600934.7,620792.4,602321.8,639236.0,655827.3,661114.6
+13000,Georgia,2,Chain-type quantity indexes for real GDP,96.260,100.000,102.980,106.383,103.218,109.544,112.387,113.293
+13000,Georgia,3,Current-dollar GDP (millions of current dollars),554903.2,583543.3,612803.4,646939.0,637930.6,701606.1,767377.6,805397.2
+13000,Georgia,4,Compensation (millions of dollars),288174.8,301509.7,315574.7,329934.1,334618.6,366403.9,400074.4,(NA)
+13000,Georgia,5,Gross operating surplus (millions of dollars),236334.5,250876.0,262492.8,280672.4,284813.4,311337.9,323181.1,(NA)
+13000,Georgia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),30393.9,31157.6,34735.9,36332.5,18498.6,23864.3,44122.0,(NA)
+13000,Georgia,7,"  Taxes on production and imports (TOPI) (millions of dollars)",31841.6,32559.2,36095.2,38068.7,37761.4,43018.8,46778.9,(NA)
+13000,Georgia,8,"  Subsidies (millions of dollars)",-1447.7,-1401.5,-1359.3,-1736.2,-19262.9,-19154.4,-2656.9,(NA)
+15000,Hawaii,1,Real GDP (millions of chained 2017 dollars) 1,85670.4,87436.4,88836.4,88945.3,79592.5,84121.5,85211.4,86887.7
+15000,Hawaii,2,Chain-type quantity indexes for real GDP,97.980,100.000,101.601,101.726,91.029,96.209,97.455,99.373
+15000,Hawaii,3,Current-dollar GDP (millions of current dollars),84287.2,87436.4,90933.5,93356.2,84615.2,93089.8,101082.6,108022.8
+15000,Hawaii,4,Compensation (millions of dollars),46239.9,47715.4,49071.2,50412.2,47891.9,51392.2,54934.7,(NA)
+15000,Hawaii,5,Gross operating surplus (millions of dollars),30624.5,31789.5,33134.5,33884.8,31951.2,36625.1,36771.3,(NA)
+15000,Hawaii,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),7422.9,7931.5,8727.8,9059.2,4772.1,5072.5,9376.7,(NA)
+15000,Hawaii,7,"  Taxes on production and imports (TOPI) (millions of dollars)",7661.3,8169.9,8972.6,9315.2,8280.8,8318.5,9905.2,(NA)
+15000,Hawaii,8,"  Subsidies (millions of dollars)",-238.4,-238.3,-244.8,-256.0,-3508.7,-3245.9,-528.5,(NA)
+16000,Idaho,1,Real GDP (millions of chained 2017 dollars) 1,70442.5,72935.1,77652.1,81261.3,82818.6,87992.9,91683.7,94914.3
+16000,Idaho,2,Chain-type quantity indexes for real GDP,96.582,100.000,106.467,111.416,113.551,120.645,125.706,130.135
+16000,Idaho,3,Current-dollar GDP (millions of current dollars),69185.2,72935.1,79072.4,84550.2,88187.7,98792.8,110871.1,118790.7
+16000,Idaho,4,Compensation (millions of dollars),36582.9,39470.9,42237.2,44626.3,47681.7,53052.8,57733.4,(NA)
+16000,Idaho,5,Gross operating surplus (millions of dollars),28396.1,28975.0,32193.2,34850.1,38776.1,41328.7,46872.5,(NA)
+16000,Idaho,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4206.2,4489.2,4641.9,5073.8,1729.9,4411.3,6265.2,(NA)
+16000,Idaho,7,"  Taxes on production and imports (TOPI) (millions of dollars)",4486.1,4793.3,5112.0,5413.4,5766.3,6437.7,6861.6,(NA)
+16000,Idaho,8,"  Subsidies (millions of dollars)",-280.0,-304.1,-470.0,-339.6,-4036.4,-2026.4,-596.4,(NA)
+17000,Illinois,1,Real GDP (millions of chained 2017 dollars) 1,826404.7,832826.8,851517.2,857985.0,810210.1,852749.1,864170.9,875568.8
+17000,Illinois,2,Chain-type quantity indexes for real GDP,99.229,100.000,102.244,103.021,97.284,102.392,103.764,105.132
+17000,Illinois,3,Current-dollar GDP (millions of current dollars),813561.6,832826.8,871024.2,895800.0,860747.5,943993.3,1025667.2,1082968.0
+17000,Illinois,4,Compensation (millions of dollars),438037.8,453339.1,472780.1,485503.5,483687.5,517269.2,553043.1,(NA)
+17000,Illinois,5,Gross operating surplus (millions of dollars),317333.7,318234.1,334381.5,345489.8,335940.6,374469.0,396619.9,(NA)
+17000,Illinois,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),58190.1,61253.7,63862.6,64806.7,41119.4,52255.1,76004.2,(NA)
+17000,Illinois,7,"  Taxes on production and imports (TOPI) (millions of dollars)",61666.6,64249.2,67304.2,68906.2,67432.0,75310.7,81314.5,(NA)
+17000,Illinois,8,"  Subsidies (millions of dollars)",-3476.5,-2995.5,-3441.6,-4099.5,-26312.5,-23055.6,-5310.2,(NA)
+18000,Indiana,1,Real GDP (millions of chained 2017 dollars) 1,348439.2,357535.8,368762.9,371044.5,359184.7,384051.0,396009.2,401472.2
+18000,Indiana,2,Chain-type quantity indexes for real GDP,97.456,100.000,103.140,103.778,100.461,107.416,110.761,112.289
+18000,Indiana,3,Current-dollar GDP (millions of current dollars),342716.6,357535.8,377376.9,385446.2,377901.1,422951.9,470323.6,497035.5
+18000,Indiana,4,Compensation (millions of dollars),176902.3,184494.7,193408.2,198805.6,200728.0,216805.7,234612.9,(NA)
+18000,Indiana,5,Gross operating surplus (millions of dollars),147566.0,153591.1,162942.6,165600.3,165797.5,188549.0,210898.4,(NA)
+18000,Indiana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),18248.3,19450.0,21026.0,21040.3,11375.7,17597.2,24812.2,(NA)
+18000,Indiana,7,"  Taxes on production and imports (TOPI) (millions of dollars)",19526.7,20493.1,22228.3,22613.0,22907.2,25167.7,26659.4,(NA)
+18000,Indiana,8,"  Subsidies (millions of dollars)",-1278.4,-1043.1,-1202.3,-1572.7,-11531.5,-7570.5,-1847.1,(NA)
+19000,Iowa,1,Real GDP (millions of chained 2017 dollars) 1,186729.9,187125.0,189245.1,188318.4,187136.7,198470.8,197846.3,200442.3
+19000,Iowa,2,Chain-type quantity indexes for real GDP,99.789,100.000,101.133,100.638,100.006,106.063,105.729,107.117
+19000,Iowa,3,Current-dollar GDP (millions of current dollars),183834.8,187125.0,193155.1,196085.1,199447.0,220818.2,238342.3,248922.5
+19000,Iowa,4,Compensation (millions of dollars),90073.1,92656.9,96343.4,98507.7,100017.8,105287.2,112527.7,(NA)
+19000,Iowa,5,Gross operating surplus (millions of dollars),83449.9,83739.8,85975.6,87251.2,94906.1,106794.3,113232.7,(NA)
+19000,Iowa,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),10311.8,10728.3,10836.1,10326.2,4523.0,8736.7,12581.8,(NA)
+19000,Iowa,7,"  Taxes on production and imports (TOPI) (millions of dollars)",11820.2,11935.7,12468.4,12836.7,12870.0,14218.9,14769.2,(NA)
+19000,Iowa,8,"  Subsidies (millions of dollars)",-1508.4,-1207.4,-1632.3,-2510.5,-8347.0,-5482.2,-2187.4,(NA)
+20000,Kansas,1,Real GDP (millions of chained 2017 dollars) 1,164643.7,166273.6,169796.9,170351.7,168540.8,172839.8,174794.6,182349.6
+20000,Kansas,2,Chain-type quantity indexes for real GDP,99.020,100.000,102.119,102.453,101.364,103.949,105.125,109.668
+20000,Kansas,3,Current-dollar GDP (millions of current dollars),162144.5,166273.6,173373.0,176917.7,177720.6,191831.7,209326.1,226012.3
+20000,Kansas,4,Compensation (millions of dollars),83368.0,85262.3,88767.0,92002.5,93413.4,97792.2,104341.1,(NA)
+20000,Kansas,5,Gross operating surplus (millions of dollars),68620.3,70500.3,73826.8,74786.1,79664.3,85694.4,92515.6,(NA)
+20000,Kansas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),10156.2,10511.0,10779.3,10129.2,4643.0,8345.2,12469.3,(NA)
+20000,Kansas,7,"  Taxes on production and imports (TOPI) (millions of dollars)",11278.0,11647.1,12079.3,12095.2,12358.7,13276.2,14164.6,(NA)
+20000,Kansas,8,"  Subsidies (millions of dollars)",-1121.8,-1136.2,-1300.0,-1966.0,-7715.7,-4931.0,-1695.3,(NA)
+21000,Kentucky,1,Real GDP (millions of chained 2017 dollars) 1,201007.2,203564.0,205940.1,211739.7,206288.8,214565.1,217568.1,225234.6
+21000,Kentucky,2,Chain-type quantity indexes for real GDP,98.744,100.000,101.167,104.016,101.339,105.404,106.879,110.646
+21000,Kentucky,3,Current-dollar GDP (millions of current dollars),197944.8,203564.0,210509.1,220683.3,218755.2,237925.9,258981.2,277746.7
+21000,Kentucky,4,Compensation (millions of dollars),109461.4,112468.5,116565.3,121060.9,122195.0,131024.2,140907.9,(NA)
+21000,Kentucky,5,Gross operating surplus (millions of dollars),74814.2,76992.4,79205.3,84034.8,87615.1,93923.7,100392.1,(NA)
+21000,Kentucky,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),13669.2,14103.0,14738.5,15587.6,8945.1,12978.0,17681.2,(NA)
+21000,Kentucky,7,"  Taxes on production and imports (TOPI) (millions of dollars)",14210.4,14669.0,15290.4,16324.4,16288.4,17657.5,18742.0,(NA)
+21000,Kentucky,8,"  Subsidies (millions of dollars)",-541.2,-566.0,-551.8,-736.8,-7343.3,-4679.5,-1060.8,(NA)
+22000,Louisiana,1,Real GDP (millions of chained 2017 dollars) 1,235554.2,239830.7,245220.3,246361.1,228825.3,234014.4,231262.3,238195.9
+22000,Louisiana,2,Chain-type quantity indexes for real GDP,98.217,100.000,102.247,102.723,95.411,97.575,96.427,99.318
+22000,Louisiana,3,Current-dollar GDP (millions of current dollars),227440.3,239830.7,256444.4,257096.7,236135.9,263162.7,291951.9,309600.6
+22000,Louisiana,4,Compensation (millions of dollars),118594.8,121139.0,126295.1,128841.4,125696.1,131432.5,140379.8,(NA)
+22000,Louisiana,5,Gross operating surplus (millions of dollars),92179.2,100810.2,112589.1,110765.6,104337.2,120052.0,129697.2,(NA)
+22000,Louisiana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),16666.3,17881.5,17560.3,17489.7,6102.6,11678.2,21874.9,(NA)
+22000,Louisiana,7,"  Taxes on production and imports (TOPI) (millions of dollars)",17401.3,18570.8,18228.6,18282.1,17777.1,20964.0,23047.2,(NA)
+22000,Louisiana,8,"  Subsidies (millions of dollars)",-735.0,-689.3,-668.3,-792.4,-11674.5,-9285.7,-1172.3,(NA)
+23000,Maine,1,Real GDP (millions of chained 2017 dollars) 1,62037.1,63000.6,64806.3,66351.2,67420.6,70869.9,72413.5,73780.8
+23000,Maine,2,Chain-type quantity indexes for real GDP,98.471,100.000,102.866,105.318,107.016,112.491,114.941,117.111
+23000,Maine,3,Current-dollar GDP (millions of current dollars),61092.2,63000.6,66216.0,69298.2,72091.6,78918.4,85801.2,91081.3
+23000,Maine,4,Compensation (millions of dollars),34476.7,35744.3,37361.2,39017.3,40351.3,44036.9,47446.4,(NA)
+23000,Maine,5,Gross operating surplus (millions of dollars),21234.9,21740.7,22976.8,23787.9,26922.4,28973.7,30892.8,(NA)
+23000,Maine,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5380.5,5515.6,5878.0,6492.9,4817.9,5907.8,7462.0,(NA)
+23000,Maine,7,"  Taxes on production and imports (TOPI) (millions of dollars)",5564.8,5685.4,6051.3,6673.6,7020.9,7437.5,7877.7,(NA)
+23000,Maine,8,"  Subsidies (millions of dollars)",-184.2,-169.8,-173.4,-180.6,-2203.0,-1529.6,-415.7,(NA)
+24000,Maryland,1,Real GDP (millions of chained 2017 dollars) 1,391950.9,399714.5,402480.9,402346.2,388532.3,405905.3,412282.6,420996.9
+24000,Maryland,2,Chain-type quantity indexes for real GDP,98.058,100.000,100.692,100.658,97.202,101.549,103.144,105.324
+24000,Maryland,3,Current-dollar GDP (millions of current dollars),386496.4,399714.5,410771.8,419447.6,413417.7,446941.0,480112.7,512279.5
+24000,Maryland,4,Compensation (millions of dollars),208737.6,215578.1,223169.7,230295.8,233520.0,248267.7,262148.9,(NA)
+24000,Maryland,5,Gross operating surplus (millions of dollars),155075.8,160299.1,162468.4,163277.6,165359.6,177827.2,187995.9,(NA)
+24000,Maryland,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),22683.0,23837.3,25133.7,25874.2,14538.1,20846.0,29967.9,(NA)
+24000,Maryland,7,"  Taxes on production and imports (TOPI) (millions of dollars)",23766.9,24928.3,26321.4,27142.2,26772.7,29831.5,32639.5,(NA)
+24000,Maryland,8,"  Subsidies (millions of dollars)",-1083.9,-1091.0,-1187.7,-1268.0,-12234.7,-8985.5,-2671.6,(NA)
+25000,Massachusetts,1,Real GDP (millions of chained 2017 dollars) 1,521662.8,530129.4,549262.1,566706.2,556196.4,591911.5,604357.7,615148.4
+25000,Massachusetts,2,Chain-type quantity indexes for real GDP,98.403,100.000,103.609,106.900,104.917,111.654,114.002,116.037
+25000,Massachusetts,3,Current-dollar GDP (millions of current dollars),514108.0,530129.4,559605.0,588617.5,589033.3,645434.0,691460.6,733859.8
+25000,Massachusetts,4,Compensation (millions of dollars),294087.2,309143.1,325726.2,342167.5,345256.9,373048.7,394121.1,(NA)
+25000,Massachusetts,5,Gross operating surplus (millions of dollars),193926.4,194050.0,205263.5,217359.4,226838.1,248971.0,265693.2,(NA)
+25000,Massachusetts,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),26094.5,26936.3,28615.3,29090.7,16938.3,23414.3,31646.3,(NA)
+25000,Massachusetts,7,"  Taxes on production and imports (TOPI) (millions of dollars)",27800.1,28572.5,30315.8,30854.9,31124.7,33589.2,35506.1,(NA)
+25000,Massachusetts,8,"  Subsidies (millions of dollars)",-1705.6,-1636.2,-1700.5,-1764.2,-14186.4,-10175.0,-3859.7,(NA)
+26000,Michigan,1,Real GDP (millions of chained 2017 dollars) 1,500159.5,505101.5,516843.0,517845.2,502483.7,531500.0,539898.2,547771.8
+26000,Michigan,2,Chain-type quantity indexes for real GDP,99.022,100.000,102.325,102.523,99.482,105.226,106.889,108.448
+26000,Michigan,3,Current-dollar GDP (millions of current dollars),494752.5,505101.5,525240.8,536975.6,530231.1,576502.2,622562.7,658992.3
+26000,Michigan,4,Compensation (millions of dollars),273728.9,285743.0,297154.5,304485.7,298476.3,321166.8,343917.9,(NA)
+26000,Michigan,5,Gross operating surplus (millions of dollars),190459.7,188358.0,194662.4,198605.0,213094.7,228533.1,239704.2,(NA)
+26000,Michigan,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),30564.0,31000.5,33423.9,33884.8,18660.1,26802.2,38940.5,(NA)
+26000,Michigan,7,"  Taxes on production and imports (TOPI) (millions of dollars)",31782.9,32148.6,34597.8,35219.2,34678.1,38668.3,41201.8,(NA)
+26000,Michigan,8,"  Subsidies (millions of dollars)",-1219.0,-1148.2,-1173.9,-1334.4,-16018.0,-11866.1,-2261.3,(NA)
+27000,Minnesota,1,Real GDP (millions of chained 2017 dollars) 1,350603.6,354721.9,364799.7,368688.7,358127.2,374733.3,379111.5,383618.6
+27000,Minnesota,2,Chain-type quantity indexes for real GDP,98.839,100.000,102.841,103.937,100.960,105.641,106.876,108.146
+27000,Minnesota,3,Current-dollar GDP (millions of current dollars),345248.8,354721.9,372439.2,383961.6,379438.7,413063.1,448032.4,471820.1
+27000,Minnesota,4,Compensation (millions of dollars),192845.4,202013.1,210877.0,218260.3,218930.0,233890.5,248802.3,(NA)
+27000,Minnesota,5,Gross operating surplus (millions of dollars),130061.3,129702.9,137869.3,141678.4,148007.4,160796.7,173257.3,(NA)
+27000,Minnesota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),22342.1,23005.9,23692.9,24022.9,12501.3,18375.9,25972.9,(NA)
+27000,Minnesota,7,"  Taxes on production and imports (TOPI) (millions of dollars)",23947.6,24481.6,25516.2,26338.0,26413.1,27244.2,29156.9,(NA)
+27000,Minnesota,8,"  Subsidies (millions of dollars)",-1605.6,-1475.7,-1823.3,-2315.1,-13911.8,-8868.3,-3184.0,(NA)
+28000,Mississippi,1,Real GDP (millions of chained 2017 dollars) 1,109911.0,110281.4,110174.8,110537.9,109894.1,114198.5,114152.9,114949.8
+28000,Mississippi,2,Chain-type quantity indexes for real GDP,99.664,100.000,99.903,100.233,99.649,103.552,103.511,104.233
+28000,Mississippi,3,Current-dollar GDP (millions of current dollars),107795.4,110281.4,113166.4,115441.7,116193.1,128364.5,139976.4,146401.1
+28000,Mississippi,4,Compensation (millions of dollars),58952.0,60352.4,62113.9,63992.9,65137.0,69451.5,73906.6,(NA)
+28000,Mississippi,5,Gross operating surplus (millions of dollars),40257.4,41181.8,42047.4,42393.5,45864.7,52106.4,55039.3,(NA)
+28000,Mississippi,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),8586.0,8747.3,9005.2,9055.2,5191.4,6806.5,11030.5,(NA)
+28000,Mississippi,7,"  Taxes on production and imports (TOPI) (millions of dollars)",9141.5,9283.6,9595.5,9882.0,10082.3,11131.2,11828.5,(NA)
+28000,Mississippi,8,"  Subsidies (millions of dollars)",-555.5,-536.4,-590.3,-826.8,-4890.9,-4324.7,-798.0,(NA)
+29000,Missouri,1,Real GDP (millions of chained 2017 dollars) 1,308423.3,311273.8,314182.4,320880.8,315276.2,330117.5,336625.8,344115.4
+29000,Missouri,2,Chain-type quantity indexes for real GDP,99.084,100.000,100.934,103.086,101.286,106.054,108.145,110.551
+29000,Missouri,3,Current-dollar GDP (millions of current dollars),304143.3,311273.8,320451.6,334364.7,335278.3,365145.4,396889.9,422305.6
+29000,Missouri,4,Compensation (millions of dollars),170130.2,176847.7,184807.7,192005.7,194141.5,205968.8,220172.3,(NA)
+29000,Missouri,5,Gross operating surplus (millions of dollars),117733.7,117363.9,117746.7,124294.2,134474.8,145752.9,155879.7,(NA)
+29000,Missouri,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),16279.5,17062.2,17897.3,18064.7,6662.0,13423.7,20838.0,(NA)
+29000,Missouri,7,"  Taxes on production and imports (TOPI) (millions of dollars)",17462.4,18234.0,19227.5,19933.4,19375.3,22001.4,23029.4,(NA)
+29000,Missouri,8,"  Subsidies (millions of dollars)",-1182.9,-1171.8,-1330.3,-1868.7,-12713.3,-8577.7,-2191.5,(NA)
+30000,Montana,1,Real GDP (millions of chained 2017 dollars) 1,47189.6,48470.5,49455.0,50318.9,50159.6,52952.0,53983.4,55192.6
+30000,Montana,2,Chain-type quantity indexes for real GDP,97.357,100.000,102.031,103.813,103.485,109.246,111.374,113.868
+30000,Montana,3,Current-dollar GDP (millions of current dollars),45859.4,48470.5,51152.1,52772.5,53130.7,59996.7,67071.9,70560.0
+30000,Montana,4,Compensation (millions of dollars),24751.7,26004.7,27104.1,28205.7,29351.9,32456.1,35373.0,(NA)
+30000,Montana,5,Gross operating surplus (millions of dollars),18642.2,19927.9,21193.8,21605.1,22908.0,25574.3,28519.8,(NA)
+30000,Montana,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2465.5,2537.9,2854.2,2961.8,870.8,1966.3,3179.1,(NA)
+30000,Montana,7,"  Taxes on production and imports (TOPI) (millions of dollars)",2855.1,3051.2,3355.8,3453.9,3461.6,3814.0,4156.0,(NA)
+30000,Montana,8,"  Subsidies (millions of dollars)",-389.7,-513.3,-501.6,-492.1,-2590.8,-1847.7,-977.0,(NA)
+31000,Nebraska,1,Real GDP (millions of chained 2017 dollars) 1,121303.1,123219.9,125543.4,127481.8,126890.6,133495.7,137078.1,144182.9
+31000,Nebraska,2,Chain-type quantity indexes for real GDP,98.444,100.000,101.886,103.459,102.979,108.339,111.247,117.013
+31000,Nebraska,3,Current-dollar GDP (millions of current dollars),119389.8,123219.9,127954.4,132741.0,135285.0,149360.3,164933.9,178420.8
+31000,Nebraska,4,Compensation (millions of dollars),58190.0,60550.7,63334.9,65684.5,67217.9,71209.8,76049.0,(NA)
+31000,Nebraska,5,Gross operating surplus (millions of dollars),54659.4,55882.2,57397.7,60125.1,64881.1,72648.8,80527.7,(NA)
+31000,Nebraska,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),6540.5,6787.0,7221.8,6931.4,3186.0,5501.7,8357.2,(NA)
+31000,Nebraska,7,"  Taxes on production and imports (TOPI) (millions of dollars)",7743.3,7956.7,8293.7,8458.5,8938.4,9282.8,9806.7,(NA)
+31000,Nebraska,8,"  Subsidies (millions of dollars)",-1202.9,-1169.7,-1071.9,-1527.1,-5752.4,-3781.1,-1449.5,(NA)
+32000,Nevada,1,Real GDP (millions of chained 2017 dollars) 1,156007.4,163199.1,168638.5,175771.3,165793.9,181102.9,187226.2,192215.6
+32000,Nevada,2,Chain-type quantity indexes for real GDP,95.593,100.000,103.333,107.704,101.590,110.971,114.723,117.780
+32000,Nevada,3,Current-dollar GDP (millions of current dollars),153318.0,163199.1,172547.9,184343.9,175982.0,200127.3,222938.6,239397.6
+32000,Nevada,4,Compensation (millions of dollars),80405.7,84334.3,89409.1,94768.0,92562.6,104460.2,116643.0,(NA)
+32000,Nevada,5,Gross operating surplus (millions of dollars),58745.6,64341.5,66939.7,72980.9,73810.4,84202.4,88832.5,(NA)
+32000,Nevada,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),14166.6,14523.3,16199.2,16595.1,9609.0,11464.6,17463.0,(NA)
+32000,Nevada,7,"  Taxes on production and imports (TOPI) (millions of dollars)",14504.2,14847.7,16551.3,16981.7,16095.2,17077.9,18351.6,(NA)
+32000,Nevada,8,"  Subsidies (millions of dollars)",-337.6,-324.4,-352.2,-386.6,-6486.1,-5613.2,-888.5,(NA)
+33000,New Hampshire,1,Real GDP (millions of chained 2017 dollars) 1,80736.1,81179.6,82269.5,84031.2,83182.1,89890.1,90150.5,91254.7
+33000,New Hampshire,2,Chain-type quantity indexes for real GDP,99.454,100.000,101.343,103.513,102.467,110.730,111.051,112.411
+33000,New Hampshire,3,Current-dollar GDP (millions of current dollars),79759.7,81179.6,83859.4,87472.0,88589.4,99100.0,105024.6,111102.3
+33000,New Hampshire,4,Compensation (millions of dollars),43718.9,45377.9,47259.9,49176.8,50708.6,57808.5,60067.2,(NA)
+33000,New Hampshire,5,Gross operating surplus (millions of dollars),30207.6,29555.2,30106.4,32040.9,34380.5,36726.1,38435.4,(NA)
+33000,New Hampshire,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5833.3,6246.4,6493.1,6254.3,3500.2,4565.3,6522.0,(NA)
+33000,New Hampshire,7,"  Taxes on production and imports (TOPI) (millions of dollars)",5994.4,6404.1,6646.6,6407.3,6404.1,6507.3,6872.9,(NA)
+33000,New Hampshire,8,"  Subsidies (millions of dollars)",-161.1,-157.7,-153.5,-153.0,-2903.8,-1942.0,-351.0,(NA)
+34000,New Jersey,1,Real GDP (millions of chained 2017 dollars) 1,587049.7,590086.7,606892.2,617110.7,595973.4,629011.3,646731.3,656480.3
+34000,New Jersey,2,Chain-type quantity indexes for real GDP,99.485,100.000,102.848,104.580,100.998,106.596,109.599,111.251
+34000,New Jersey,3,Current-dollar GDP (millions of current dollars),578651.4,590086.7,619340.2,641877.6,630212.7,692227.3,754948.2,799305.5
+34000,New Jersey,4,Compensation (millions of dollars),314121.6,323748.4,336868.5,350368.3,352001.0,378235.9,406075.3,(NA)
+34000,New Jersey,5,Gross operating surplus (millions of dollars),215372.4,214930.7,227154.3,231830.0,239305.6,262579.4,281603.3,(NA)
+34000,New Jersey,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),49157.4,51407.6,55317.4,59679.3,38906.1,51412.0,67269.6,(NA)
+34000,New Jersey,7,"  Taxes on production and imports (TOPI) (millions of dollars)",50859.3,53017.7,56926.8,61324.5,61215.5,66050.7,70680.9,(NA)
+34000,New Jersey,8,"  Subsidies (millions of dollars)",-1701.9,-1610.1,-1609.5,-1645.2,-22309.3,-14638.7,-3411.2,(NA)
+35000,New Mexico,1,Real GDP (millions of chained 2017 dollars) 1,93043.5,93210.1,96077.0,100446.2,97511.9,99572.3,101315.0,105463.3
+35000,New Mexico,2,Chain-type quantity indexes for real GDP,99.821,100.000,103.076,107.763,104.615,106.826,108.695,113.146
+35000,New Mexico,3,Current-dollar GDP (millions of current dollars),90476.0,93210.1,98838.2,103869.2,100434.5,111730.6,125540.6,130201.6
+35000,New Mexico,4,Compensation (millions of dollars),47427.8,48602.2,50920.3,53555.2,53451.2,56575.7,61258.3,(NA)
+35000,New Mexico,5,Gross operating surplus (millions of dollars),36746.4,37840.0,40158.4,41839.5,41438.5,47577.9,54106.0,(NA)
+35000,New Mexico,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),6301.7,6767.9,7759.5,8474.4,5544.7,7577.1,10176.2,(NA)
+35000,New Mexico,7,"  Taxes on production and imports (TOPI) (millions of dollars)",6565.7,7039.1,8047.6,8801.3,8423.8,9664.1,10788.3,(NA)
+35000,New Mexico,8,"  Subsidies (millions of dollars)",-264.0,-271.3,-288.1,-326.9,-2879.0,-2087.0,-612.0,(NA)
+36000,New York,1,Real GDP (millions of chained 2017 dollars) 1,1590567.8,1624800.7,1665186.8,1709750.7,1650567.2,1724472.2,1763524.6,1775714.1
+36000,New York,2,Chain-type quantity indexes for real GDP,97.893,100.000,102.486,105.228,101.586,106.134,108.538,109.288
+36000,New York,3,Current-dollar GDP (millions of current dollars),1556830.0,1624800.7,1710665.6,1793261.3,1766857.4,1911345.8,2048402.6,2152261.9
+36000,New York,4,Compensation (millions of dollars),790014.7,832970.6,874937.0,913620.1,906600.0,978303.3,1038628.3,(NA)
+36000,New York,5,Gross operating surplus (millions of dollars),653406.1,676497.3,714293.0,754376.5,775517.8,831393.7,877636.2,(NA)
+36000,New York,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),113409.2,115332.8,121435.6,125264.7,84739.7,101648.8,132138.2,(NA)
+36000,New York,7,"  Taxes on production and imports (TOPI) (millions of dollars)",120200.4,121935.4,128376.9,132151.9,131613.7,138047.6,146333.5,(NA)
+36000,New York,8,"  Subsidies (millions of dollars)",-6791.2,-6602.6,-6941.3,-6887.1,-46873.9,-36398.7,-14195.4,(NA)
+37000,North Carolina,1,Real GDP (millions of chained 2017 dollars) 1,536308.5,546810.1,556573.7,568475.6,564794.4,597316.1,609058.2,625681.9
+37000,North Carolina,2,Chain-type quantity indexes for real GDP,98.079,100.000,101.786,103.962,103.289,109.236,111.384,114.424
+37000,North Carolina,3,Current-dollar GDP (millions of current dollars),528284.3,546810.1,568037.3,593126.9,601148.7,659529.3,715968.3,766919.0
+37000,North Carolina,4,Compensation (millions of dollars),272537.5,285070.4,300705.4,315958.7,324794.6,356071.8,387069.4,(NA)
+37000,North Carolina,5,Gross operating surplus (millions of dollars),223114.2,228178.6,232433.3,241543.2,254096.3,272623.0,288501.8,(NA)
+37000,North Carolina,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),32632.7,33561.1,34898.6,35625.0,22257.9,30834.4,40397.1,(NA)
+37000,North Carolina,7,"  Taxes on production and imports (TOPI) (millions of dollars)",33899.3,34833.9,36122.1,37178.6,37268.1,41396.1,43217.8,(NA)
+37000,North Carolina,8,"  Subsidies (millions of dollars)",-1266.6,-1272.8,-1223.5,-1553.6,-15010.3,-10561.7,-2820.7,(NA)
+38000,North Dakota,1,Real GDP (millions of chained 2017 dollars) 1,54756.0,56530.2,58516.4,59142.3,55699.1,55401.0,54798.7,58014.8
+38000,North Dakota,2,Chain-type quantity indexes for real GDP,96.862,100.000,103.513,104.621,98.530,98.002,96.937,102.626
+38000,North Dakota,3,Current-dollar GDP (millions of current dollars),52666.3,56530.2,60377.1,60516.3,55347.6,63208.6,72651.3,74112.5
+38000,North Dakota,4,Compensation (millions of dollars),26854.3,27561.6,28796.1,29941.9,29000.1,29895.0,32275.5,(NA)
+38000,North Dakota,5,Gross operating surplus (millions of dollars),22571.4,25400.0,27819.3,26976.2,25152.5,30781.3,36676.5,(NA)
+38000,North Dakota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3240.6,3568.7,3761.7,3598.3,1195.0,2532.2,3699.3,(NA)
+38000,North Dakota,7,"  Taxes on production and imports (TOPI) (millions of dollars)",4456.9,4787.7,5090.9,5250.5,5245.9,5830.0,6183.6,(NA)
+38000,North Dakota,8,"  Subsidies (millions of dollars)",-1216.3,-1219.0,-1329.2,-1652.2,-4050.9,-3297.8,-2484.3,(NA)
+39000,Ohio,1,Real GDP (millions of chained 2017 dollars) 1,638157.5,652187.5,656212.0,674123.4,654586.3,686206.4,689681.3,698217.3
+39000,Ohio,2,Chain-type quantity indexes for real GDP,97.849,100.000,100.617,103.363,100.368,105.216,105.749,107.058
+39000,Ohio,3,Current-dollar GDP (millions of current dollars),627294.7,652187.5,672540.1,703127.8,692121.9,759626.2,825990.0,872748.3
+39000,Ohio,4,Compensation (millions of dollars),336809.5,349025.7,361405.8,373980.6,376177.2,399471.1,425329.7,(NA)
+39000,Ohio,5,Gross operating surplus (millions of dollars),250335.8,260809.6,268340.7,285193.5,289997.0,323006.5,348547.0,(NA)
+39000,Ohio,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),40149.4,42352.2,42793.6,43953.8,25947.7,37148.6,52113.4,(NA)
+39000,Ohio,7,"  Taxes on production and imports (TOPI) (millions of dollars)",41966.1,43978.5,44514.7,45965.8,47256.4,52065.7,55161.1,(NA)
+39000,Ohio,8,"  Subsidies (millions of dollars)",-1816.7,-1626.4,-1721.1,-2012.0,-21308.7,-14917.0,-3047.7,(NA)
+40000,Oklahoma,1,Real GDP (millions of chained 2017 dollars) 1,190093.5,192538.6,196030.5,199462.1,190751.7,193518.0,191583.0,201658.8
+40000,Oklahoma,2,Chain-type quantity indexes for real GDP,98.730,100.000,101.814,103.596,99.072,100.509,99.504,104.737
+40000,Oklahoma,3,Current-dollar GDP (millions of current dollars),182238.8,192538.6,204193.9,205262.6,191653.5,217730.8,242738.5,254134.2
+40000,Oklahoma,4,Compensation (millions of dollars),94127.5,97104.7,102000.1,105832.1,104844.8,109575.5,117556.5,(NA)
+40000,Oklahoma,5,Gross operating surplus (millions of dollars),77136.6,83972.4,89844.0,86844.9,82547.3,99224.3,111040.0,(NA)
+40000,Oklahoma,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),10974.7,11461.5,12349.8,12585.7,4261.4,8931.0,14142.1,(NA)
+40000,Oklahoma,7,"  Taxes on production and imports (TOPI) (millions of dollars)",11642.8,12101.2,13045.8,13409.9,13156.6,14710.3,15591.5,(NA)
+40000,Oklahoma,8,"  Subsidies (millions of dollars)",-668.1,-639.7,-696.0,-824.3,-8895.2,-5779.3,-1449.5,(NA)
+41000,Oregon,1,Real GDP (millions of chained 2017 dollars) 1,214769.3,225534.5,234308.3,239910.5,237670.4,250099.4,254708.4,260110.8
+41000,Oregon,2,Chain-type quantity indexes for real GDP,95.227,100.000,103.890,106.374,105.381,110.892,112.935,115.331
+41000,Oregon,3,Current-dollar GDP (millions of current dollars),211782.4,225534.5,238466.9,248939.8,251855.8,275444.0,297308.9,316460.7
+41000,Oregon,4,Compensation (millions of dollars),118802.7,125888.0,133509.8,140657.2,144396.3,157356.3,167109.7,(NA)
+41000,Oregon,5,Gross operating surplus (millions of dollars),82411.3,88607.9,93159.8,95332.1,102126.9,107473.5,114725.6,(NA)
+41000,Oregon,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),10568.4,11038.6,11797.3,12950.5,5332.5,10614.1,15473.5,(NA)
+41000,Oregon,7,"  Taxes on production and imports (TOPI) (millions of dollars)",11259.3,11721.0,12500.4,13731.9,13796.6,16223.3,17208.9,(NA)
+41000,Oregon,8,"  Subsidies (millions of dollars)",-690.9,-682.3,-703.2,-781.4,-8464.1,-5609.1,-1735.4,(NA)
+42000,Pennsylvania,1,Real GDP (millions of chained 2017 dollars) 1,744847.1,754318.0,763855.4,772529.5,736470.6,764601.6,772335.9,789502.3
+42000,Pennsylvania,2,Chain-type quantity indexes for real GDP,98.744,100.000,101.264,102.414,97.634,101.363,102.389,104.664
+42000,Pennsylvania,3,Current-dollar GDP (millions of current dollars),733165.9,754318.0,780620.7,803078.0,777427.1,844391.6,911813.3,965066.8
+42000,Pennsylvania,4,Compensation (millions of dollars),392939.0,407783.7,424730.6,441207.6,438848.0,466275.5,497959.5,(NA)
+42000,Pennsylvania,5,Gross operating surplus (millions of dollars),294027.6,298637.3,305185.6,309603.3,307113.5,335571.9,357183.0,(NA)
+42000,Pennsylvania,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),46199.3,47897.1,50704.5,52267.1,31465.5,42544.1,56670.8,(NA)
+42000,Pennsylvania,7,"  Taxes on production and imports (TOPI) (millions of dollars)",48088.8,49835.4,52694.9,54300.1,53835.0,57376.2,60960.4,(NA)
+42000,Pennsylvania,8,"  Subsidies (millions of dollars)",-1889.4,-1938.3,-1990.4,-2032.9,-22369.5,-14832.1,-4289.6,(NA)
+44000,Rhode Island,1,Real GDP (millions of chained 2017 dollars) 1,58630.0,58771.6,58740.1,59866.6,58155.2,60777.3,62190.9,63172.6
+44000,Rhode Island,2,Chain-type quantity indexes for real GDP,99.759,100.000,99.947,101.863,98.951,103.413,105.818,107.488
+44000,Rhode Island,3,Current-dollar GDP (millions of current dollars),57714.6,58771.6,60064.9,62526.9,62054.2,67236.7,72771.4,77322.2
+44000,Rhode Island,4,Compensation (millions of dollars),32503.2,33687.9,34629.7,35625.3,35723.3,38396.9,41167.3,(NA)
+44000,Rhode Island,5,Gross operating surplus (millions of dollars),20555.8,20371.0,20549.5,21768.7,22759.3,24528.4,25936.1,(NA)
+44000,Rhode Island,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),4655.7,4712.7,4885.7,5132.9,3571.6,4311.4,5667.9,(NA)
+44000,Rhode Island,7,"  Taxes on production and imports (TOPI) (millions of dollars)",4838.8,4880.7,5053.3,5299.4,5300.1,5673.1,6022.5,(NA)
+44000,Rhode Island,8,"  Subsidies (millions of dollars)",-183.1,-168.1,-167.6,-166.5,-1728.5,-1361.7,-354.6,(NA)
+45000,South Carolina,1,Real GDP (millions of chained 2017 dollars) 1,220559.3,224937.6,231663.3,237511.4,233712.3,244854.0,250873.4,259930.2
+45000,South Carolina,2,Chain-type quantity indexes for real GDP,98.054,100.000,102.990,105.590,103.901,108.854,111.530,115.557
+45000,South Carolina,3,Current-dollar GDP (millions of current dollars),217555.5,224937.6,236561.7,248046.5,249482.2,271494.5,297546.3,322259.2
+45000,South Carolina,4,Compensation (millions of dollars),117342.2,123253.8,129124.0,135684.7,137141.7,147141.1,160318.7,(NA)
+45000,South Carolina,5,Gross operating surplus (millions of dollars),85238.6,86229.0,90068.2,94443.2,101057.7,108973.7,115228.0,(NA)
+45000,South Carolina,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),14974.7,15454.7,17369.4,17918.6,11282.8,15379.7,21999.7,(NA)
+45000,South Carolina,7,"  Taxes on production and imports (TOPI) (millions of dollars)",15496.9,15962.8,17858.3,18515.5,18805.9,20973.7,23026.1,(NA)
+45000,South Carolina,8,"  Subsidies (millions of dollars)",-522.3,-508.1,-488.9,-596.9,-7523.1,-5594.0,-1026.4,(NA)
+46000,South Dakota,1,Real GDP (millions of chained 2017 dollars) 1,51264.3,51615.1,51937.8,52360.1,52692.1,55140.4,54959.3,56309.3
+46000,South Dakota,2,Chain-type quantity indexes for real GDP,99.320,100.000,100.625,101.443,102.087,106.830,106.479,109.095
+46000,South Dakota,3,Current-dollar GDP (millions of current dollars),49842.6,51615.1,53349.5,55007.4,56162.9,62607.1,68781.7,72420.9
+46000,South Dakota,4,Compensation (millions of dollars),22700.5,23674.6,24724.7,25954.9,27026.0,28850.3,30930.6,(NA)
+46000,South Dakota,5,Gross operating surplus (millions of dollars),24566.8,25010.2,25775.5,26381.3,28797.7,31927.3,34884.8,(NA)
+46000,South Dakota,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),2575.3,2930.3,2849.3,2671.2,339.2,1829.5,2966.2,(NA)
+46000,South Dakota,7,"  Taxes on production and imports (TOPI) (millions of dollars)",3597.1,3988.1,4071.5,4091.9,4115.9,4627.5,4905.1,(NA)
+46000,South Dakota,8,"  Subsidies (millions of dollars)",-1021.8,-1057.8,-1222.2,-1420.7,-3776.6,-2798.0,-1938.9,(NA)
+47000,Tennessee,1,Real GDP (millions of chained 2017 dollars) 1,343544.9,355417.5,362363.7,370088.3,366555.2,396576.2,412101.3,425409.7
+47000,Tennessee,2,Chain-type quantity indexes for real GDP,96.660,100.000,101.954,104.128,103.134,111.580,115.949,119.693
+47000,Tennessee,3,Current-dollar GDP (millions of current dollars),339350.2,355417.5,369713.2,385819.5,390172.6,438180.0,485657.5,523239.8
+47000,Tennessee,4,Compensation (millions of dollars),173812.8,181741.6,191298.1,199471.2,204192.1,224343.3,243940.3,(NA)
+47000,Tennessee,5,Gross operating surplus (millions of dollars),143092.9,150686.6,153910.8,159875.8,173331.4,191043.0,208871.9,(NA)
+47000,Tennessee,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),22444.5,22989.2,24504.3,26472.5,12649.1,22793.7,32845.3,(NA)
+47000,Tennessee,7,"  Taxes on production and imports (TOPI) (millions of dollars)",23186.4,23770.5,25260.3,27435.4,27962.1,32337.8,34551.7,(NA)
+47000,Tennessee,8,"  Subsidies (millions of dollars)",-741.9,-781.3,-756.0,-962.8,-15313.0,-9544.1,-1706.4,(NA)
+48000,Texas,1,Real GDP (millions of chained 2017 dollars) 1,1633863.3,1667313.0,1746543.3,1802912.8,1772185.6,1873473.4,1924007.5,2032932.9
+48000,Texas,2,Chain-type quantity indexes for real GDP,97.994,100.000,104.752,108.133,106.290,112.365,115.396,121.929
+48000,Texas,3,Current-dollar GDP (millions of current dollars),1582981.5,1667313.0,1808026.9,1860108.3,1798596.1,2087490.9,2402137.2,2563508.3
+48000,Texas,4,Compensation (millions of dollars),812507.2,849890.1,901962.9,952494.9,956834.8,1035481.2,1136107.1,(NA)
+48000,Texas,5,Gross operating surplus (millions of dollars),647508.9,685468.2,759735.0,754784.7,754448.4,927494.6,1081904.5,(NA)
+48000,Texas,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),122965.3,131954.8,146329.0,152828.7,87312.9,124515.1,184125.5,(NA)
+48000,Texas,7,"  Taxes on production and imports (TOPI) (millions of dollars)",126834.5,135556.7,150043.0,157535.1,155257.0,169398.4,192639.6,(NA)
+48000,Texas,8,"  Subsidies (millions of dollars)",-3869.1,-3601.9,-3714.0,-4706.4,-67944.1,-44883.4,-8514.1,(NA)
+49000,Utah,1,Real GDP (millions of chained 2017 dollars) 1,162528.2,172075.0,182106.0,192698.7,194753.7,209975.2,213898.3,219180.7
+49000,Utah,2,Chain-type quantity indexes for real GDP,94.452,100.000,105.829,111.985,113.180,122.025,124.305,127.375
+49000,Utah,3,Current-dollar GDP (millions of current dollars),159330.6,172075.0,186805.7,201285.4,205666.3,232125.1,256369.9,272585.7
+49000,Utah,4,Compensation (millions of dollars),84671.5,89793.2,96665.8,103167.1,109879.4,120385.0,131343.9,(NA)
+49000,Utah,5,Gross operating surplus (millions of dollars),66008.6,72586.4,79841.4,87112.1,91333.6,102548.8,111583.5,(NA)
+49000,Utah,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),8650.6,9695.4,10298.5,11006.2,4453.3,9191.3,13442.5,(NA)
+49000,Utah,7,"  Taxes on production and imports (TOPI) (millions of dollars)",9002.6,10068.0,10692.4,11426.4,11730.7,13148.6,14414.8,(NA)
+49000,Utah,8,"  Subsidies (millions of dollars)",-352.1,-372.6,-394.0,-420.2,-7277.4,-3957.2,-972.3,(NA)
+50000,Vermont,1,Real GDP (millions of chained 2017 dollars) 1,32312.7,32589.2,32827.8,33207.6,32307.1,33860.8,34609.4,35073.5
+50000,Vermont,2,Chain-type quantity indexes for real GDP,99.151,100.000,100.732,101.897,99.134,103.902,106.199,107.623
+50000,Vermont,3,Current-dollar GDP (millions of current dollars),31840.2,32589.2,33482.6,34628.1,34470.8,37593.5,40830.8,43129.6
+50000,Vermont,4,Compensation (millions of dollars),18150.6,18672.9,19283.8,19835.3,19931.7,21284.4,22945.6,(NA)
+50000,Vermont,5,Gross operating surplus (millions of dollars),10667.5,10766.1,10936.8,11374.8,12173.3,13287.4,14049.3,(NA)
+50000,Vermont,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3022.1,3150.2,3262.0,3418.0,2365.8,3021.6,3835.9,(NA)
+50000,Vermont,7,"  Taxes on production and imports (TOPI) (millions of dollars)",3117.9,3235.7,3355.2,3513.4,3535.4,3828.9,4063.1,(NA)
+50000,Vermont,8,"  Subsidies (millions of dollars)",-95.8,-85.5,-93.2,-95.4,-1169.6,-807.3,-227.2,(NA)
+51000,Virginia,1,Real GDP (millions of chained 2017 dollars) 1,505107.7,515167.2,527767.5,541070.2,533828.3,562888.0,576964.3,590802.2
+51000,Virginia,2,Chain-type quantity indexes for real GDP,98.047,100.000,102.446,105.028,103.622,109.263,111.996,114.682
+51000,Virginia,3,Current-dollar GDP (millions of current dollars),499032.4,515167.2,537158.3,561989.6,565063.1,613920.3,663105.5,707085.3
+51000,Virginia,4,Compensation (millions of dollars),285040.6,296070.8,307238.7,320165.3,328646.2,350812.1,375623.5,(NA)
+51000,Virginia,5,Gross operating surplus (millions of dollars),183408.4,187132.0,196310.4,205460.4,212847.8,230390.8,245444.2,(NA)
+51000,Virginia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),30583.5,31964.3,33609.2,36364.0,23569.1,32717.4,42037.8,(NA)
+51000,Virginia,7,"  Taxes on production and imports (TOPI) (millions of dollars)",31689.1,33095.7,34722.0,37577.2,38186.4,42309.9,44543.3,(NA)
+51000,Virginia,8,"  Subsidies (millions of dollars)",-1105.6,-1131.4,-1112.8,-1213.3,-14617.3,-9592.6,-2505.6,(NA)
+53000,Washington,1,Real GDP (millions of chained 2017 dollars) 1,495724.9,527169.4,561785.7,588930.4,590401.0,630819.8,641143.6,672125.3
+53000,Washington,2,Chain-type quantity indexes for real GDP,94.035,100.000,106.566,111.716,111.995,119.662,121.620,127.497
+53000,Washington,3,Current-dollar GDP (millions of current dollars),489790.2,527169.4,570337.8,608966.4,621493.2,688631.9,738101.4,801515.1
+53000,Washington,4,Compensation (millions of dollars),250024.7,267847.3,290656.1,309658.5,322652.7,353020.4,378259.7,(NA)
+53000,Washington,5,Gross operating surplus (millions of dollars),201557.0,218352.8,235363.4,251229.5,266089.5,292003.3,303087.5,(NA)
+53000,Washington,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),38208.5,40969.2,44318.2,48078.5,32751.1,43608.2,56754.1,(NA)
+53000,Washington,7,"  Taxes on production and imports (TOPI) (millions of dollars)",39703.8,42504.0,45903.0,49724.4,48687.7,55513.3,60196.4,(NA)
+53000,Washington,8,"  Subsidies (millions of dollars)",-1495.3,-1534.8,-1584.8,-1645.9,-15936.7,-11905.2,-3442.3,(NA)
+54000,West Virginia,1,Real GDP (millions of chained 2017 dollars) 1,73513.3,75172.4,77406.5,76786.6,73952.9,75520.5,76525.5,80135.5
+54000,West Virginia,2,Chain-type quantity indexes for real GDP,97.793,100.000,102.972,102.147,98.378,100.463,101.800,106.602
+54000,West Virginia,3,Current-dollar GDP (millions of current dollars),71248.9,75172.4,79794.3,79883.8,76975.9,86509.9,97417.3,99510.6
+54000,West Virginia,4,Compensation (millions of dollars),37372.2,39120.1,42015.4,42402.4,41240.2,43493.8,45968.5,(NA)
+54000,West Virginia,5,Gross operating surplus (millions of dollars),28432.6,30377.3,31689.9,31445.7,31965.4,37753.0,44483.2,(NA)
+54000,West Virginia,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),5444.0,5675.0,6089.1,6035.7,3770.4,5263.1,6965.6,(NA)
+54000,West Virginia,7,"  Taxes on production and imports (TOPI) (millions of dollars)",5582.3,5802.5,6211.9,6167.6,5980.8,6600.6,7278.2,(NA)
+54000,West Virginia,8,"  Subsidies (millions of dollars)",-138.3,-127.5,-122.8,-132.0,-2210.4,-1337.6,-312.5,(NA)
+55000,Wisconsin,1,Real GDP (millions of chained 2017 dollars) 1,319272.3,321886.8,328832.4,333698.6,322972.7,334517.3,335688.5,336460.6
+55000,Wisconsin,2,Chain-type quantity indexes for real GDP,99.188,100.000,102.158,103.670,100.337,103.924,104.288,104.528
+55000,Wisconsin,3,Current-dollar GDP (millions of current dollars),315420.0,321886.8,335144.3,347398.6,343783.0,369032.4,396209.3,413966.8
+55000,Wisconsin,4,Compensation (millions of dollars),174820.8,181013.4,189950.6,196170.9,197113.0,209106.1,223324.1,(NA)
+55000,Wisconsin,5,Gross operating surplus (millions of dollars),120044.4,119756.4,123455.3,129641.6,134775.2,142718.5,148691.4,(NA)
+55000,Wisconsin,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),20554.8,21117.0,21738.4,21586.1,11894.7,17207.8,24193.7,(NA)
+55000,Wisconsin,7,"  Taxes on production and imports (TOPI) (millions of dollars)",21439.8,21896.7,22647.5,22701.8,23193.5,24311.0,25763.3,(NA)
+55000,Wisconsin,8,"  Subsidies (millions of dollars)",-885.0,-779.6,-909.1,-1115.7,-11298.8,-7103.2,-1569.5,(NA)
+56000,Wyoming,1,Real GDP (millions of chained 2017 dollars) 1,37853.5,37620.3,37977.2,38558.2,36181.3,36929.5,37294.2,39322.0
+56000,Wyoming,2,Chain-type quantity indexes for real GDP,100.620,100.000,100.949,102.493,96.175,98.164,99.133,104.523
+56000,Wyoming,3,Current-dollar GDP (millions of current dollars),36105.9,37620.3,39614.5,39971.4,36675.5,42176.2,49080.6,50171.6
+56000,Wyoming,4,Compensation (millions of dollars),17266.1,17664.0,18500.2,19145.6,18513.8,19555.2,20797.0,(NA)
+56000,Wyoming,5,Gross operating surplus (millions of dollars),15388.8,16725.0,17744.4,17406.9,16151.3,19952.0,24134.1,(NA)
+56000,Wyoming,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),3451.0,3231.3,3369.8,3418.9,2010.3,2668.9,4149.4,(NA)
+56000,Wyoming,7,"  Taxes on production and imports (TOPI) (millions of dollars)",3537.6,3326.1,3457.8,3512.1,3193.0,3606.7,4388.0,(NA)
+56000,Wyoming,8,"  Subsidies (millions of dollars)",-86.6,-94.8,-88.0,-93.2,-1182.7,-937.8,-238.5,(NA)
+91000,New England,1,Real GDP (millions of chained 2017 dollars) 1,1023574.2,1039545.4,1062478.0,1084356.2,1055848.3,1116077.9,1140307.6,1160814.1
+91000,New England,2,Chain-type quantity indexes for real GDP,98.464,100.000,102.206,104.311,101.568,107.362,109.693,111.666
+91000,New England,3,Current-dollar GDP (millions of current dollars),1009275.1,1039545.4,1083763.3,1128009.1,1122041.1,1224190.1,1315233.3,1396676.5
+91000,New England,4,Compensation (millions of dollars),561865.4,583163.6,607702.8,632336.3,638260.5,689298.4,731740.8,(NA)
+91000,New England,5,Gross operating surplus (millions of dollars),384568.2,391410.8,406959.0,425137.1,440679.9,478114.6,507508.9,(NA)
+91000,New England,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),62841.5,64971.1,69101.5,70535.8,43100.7,56777.1,75983.5,(NA)
+91000,New England,7,"  Taxes on production and imports (TOPI) (millions of dollars)",65787.2,67740.6,71962.9,73476.0,73978.5,78361.4,82543.6,(NA)
+91000,New England,8,"  Subsidies (millions of dollars)",-2945.7,-2769.5,-2861.4,-2940.2,-30877.8,-21584.3,-6560.1,(NA)
+92000,Mideast,1,Real GDP (millions of chained 2017 dollars) 1,3518584.5,3572774.4,3647342.2,3715334.9,3582052.5,3741297.6,3814224.4,3862616.5
+92000,Mideast,2,Chain-type quantity indexes for real GDP,98.483,100.000,102.087,103.990,100.260,104.717,106.758,108.113
+92000,Mideast,3,Current-dollar GDP (millions of current dollars),3455098.6,3572774.4,3736014.5,3881521.3,3812465.3,4133998.4,4450545.6,4697305.0
+92000,Mideast,4,Compensation (millions of dollars),1824678.2,1903640.5,1989365.9,2069188.4,2066869.4,2213865.1,2355923.2,(NA)
+92000,Mideast,5,Gross operating surplus (millions of dollars),1390952.8,1422377.5,1485217.9,1540132.1,1571261.8,1697227.7,1799057.2,(NA)
+92000,Mideast,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),239467.6,246756.4,261430.6,272200.9,174334.1,222905.6,295565.2,(NA)
+92000,Mideast,7,"  Taxes on production and imports (TOPI) (millions of dollars)",251932.3,258978.7,274207.1,285149.0,283316.3,301833.1,322012.4,(NA)
+92000,Mideast,8,"  Subsidies (millions of dollars)",-12464.8,-12222.3,-12776.5,-12948.1,-108982.2,-78927.4,-26447.1,(NA)
+93000,Great Lakes,1,Real GDP (millions of chained 2017 dollars) 1,2632446.9,2669538.3,2722152.2,2754723.6,2649399.5,2788918.8,2825277.1,2859299.7
+93000,Great Lakes,2,Chain-type quantity indexes for real GDP,98.611,100.000,101.971,103.191,99.246,104.472,105.834,107.108
+93000,Great Lakes,3,Current-dollar GDP (millions of current dollars),2593745.5,2669538.3,2781326.3,2868748.2,2804784.6,3072106.1,3340752.8,3525710.8
+93000,Great Lakes,4,Compensation (millions of dollars),1400299.4,1453615.9,1514699.1,1558946.3,1556181.9,1663818.9,1780227.7,(NA)
+93000,Great Lakes,5,Gross operating surplus (millions of dollars),1025739.6,1040749.1,1083782.6,1124530.2,1139605.0,1257276.2,1344460.9,(NA)
+93000,Great Lakes,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),167706.5,175173.3,182844.6,185271.7,108997.6,151010.9,216064.1,(NA)
+93000,Great Lakes,7,"  Taxes on production and imports (TOPI) (millions of dollars)",176382.1,182766.1,191292.5,195405.9,195467.2,215523.3,230100.1,(NA)
+93000,Great Lakes,8,"  Subsidies (millions of dollars)",-8675.5,-7592.8,-8447.9,-10134.2,-86469.6,-64512.4,-14035.9,(NA)
+94000,Plains,1,Real GDP (millions of chained 2017 dollars) 1,1237736.4,1250759.3,1274025.8,1287230.5,1264481.3,1320363.1,1335231.8,1369260.0
+94000,Plains,2,Chain-type quantity indexes for real GDP,98.959,100.000,101.860,102.916,101.097,105.565,106.754,109.474
+94000,Plains,3,Current-dollar GDP (millions of current dollars),1217270.1,1250759.3,1301100.0,1339593.8,1338680.0,1466034.5,1598957.7,1694014.9
+94000,Plains,4,Compensation (millions of dollars),644161.5,668566.9,697650.7,722357.3,729746.6,772893.9,825098.6,(NA)
+94000,Plains,5,Gross operating surplus (millions of dollars),501662.6,507599.2,526410.9,541492.4,575883.8,634395.7,686974.3,(NA)
+94000,Plains,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),71445.9,74593.2,77038.3,75744.1,33049.6,58744.9,86884.8,(NA)
+94000,Plains,7,"  Taxes on production and imports (TOPI) (millions of dollars)",80305.6,83030.9,86747.5,89004.1,89317.3,96481.0,102015.6,(NA)
+94000,Plains,8,"  Subsidies (millions of dollars)",-8859.6,-8437.6,-9709.2,-13260.1,-56267.8,-37736.1,-15130.8,(NA)
+95000,Southeast,1,Real GDP (millions of chained 2017 dollars) 1,4102066.9,4210089.2,4315633.4,4414688.9,4338850.1,4611709.5,4735643.3,4883068.5
+95000,Southeast,2,Chain-type quantity indexes for real GDP,97.434,100.000,102.507,104.860,103.058,109.539,112.483,115.985
+95000,Southeast,3,Current-dollar GDP (millions of current dollars),4037867.5,4210089.2,4411751.3,4604179.2,4602993.0,5103002.8,5604605.3,6014054.7
+95000,Southeast,4,Compensation (millions of dollars),2153733.3,2248032.5,2358073.8,2464905.1,2507271.1,2733210.2,2967781.1,(NA)
+95000,Southeast,5,Gross operating surplus (millions of dollars),1611177.8,1676904.0,1750995.4,1824008.8,1916856.9,2113849.4,2259008.5,(NA)
+95000,Southeast,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),272956.5,285152.7,302682.1,315265.2,178865.0,255943.2,377815.7,(NA)
+95000,Southeast,7,"  Taxes on production and imports (TOPI) (millions of dollars)",283883.3,296045.8,313454.9,328423.5,329435.0,372199.7,399751.0,(NA)
+95000,Southeast,8,"  Subsidies (millions of dollars)",-10926.8,-10893.1,-10772.8,-13158.2,-150570.0,-116256.5,-21935.3,(NA)
+96000,Southwest,1,Real GDP (millions of chained 2017 dollars) 1,2235958.6,2286160.7,2385042.1,2462457.7,2423335.5,2557665.7,2620456.6,2754851.3
+96000,Southwest,2,Chain-type quantity indexes for real GDP,97.804,100.000,104.325,107.711,106.000,111.876,114.623,120.501
+96000,Southwest,3,Current-dollar GDP (millions of current dollars),2169483.3,2286160.7,2464730.0,2544785.1,2477127.6,2849232.1,3246070.0,3456188.6
+96000,Southwest,4,Compensation (millions of dollars),1124934.8,1176839.1,1248206.7,1316419.6,1329452.4,1435180.5,1567368.3,(NA)
+96000,Southwest,5,Gross operating surplus (millions of dollars),883341.7,937362.3,1026898.6,1030525.5,1039357.1,1254150.4,1441478.8,(NA)
+96000,Southwest,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),161206.9,171959.4,189624.7,197839.9,108318.2,159901.2,237223.0,(NA)
+96000,Southwest,7,"  Taxes on production and imports (TOPI) (millions of dollars)",166690.8,177209.3,195112.7,204525.5,201619.5,221284.3,249514.1,(NA)
+96000,Southwest,8,"  Subsidies (millions of dollars)",-5483.8,-5249.9,-5488.1,-6685.6,-93301.3,-61383.2,-12291.1,(NA)
+97000,Rocky Mountain,1,Real GDP (millions of chained 2017 dollars) 1,655672.6,681310.1,712372.1,746391.6,744870.4,794824.1,812969.2,836705.7
+97000,Rocky Mountain,2,Chain-type quantity indexes for real GDP,96.237,100.000,104.559,109.552,109.329,116.661,119.324,122.808
+97000,Rocky Mountain,3,Current-dollar GDP (millions of current dollars),641047.0,681310.1,730567.7,776281.1,781272.4,880142.5,974682.6,1032497.0
+97000,Rocky Mountain,4,Compensation (millions of dollars),345278.3,366160.1,390060.6,414443.5,429895.3,470186.5,510843.1,(NA)
+97000,Rocky Mountain,5,Gross operating surplus (millions of dollars),257311.8,273910.2,296479.8,314896.0,331298.0,372551.4,408362.2,(NA)
+97000,Rocky Mountain,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),38456.9,41239.8,44027.3,46941.6,20079.0,37404.6,55477.2,(NA)
+97000,Rocky Mountain,7,"  Taxes on production and imports (TOPI) (millions of dollars)",40638.2,43661.3,46593.2,49518.5,49872.7,55190.9,60777.0,(NA)
+97000,Rocky Mountain,8,"  Subsidies (millions of dollars)",-2181.2,-2421.4,-2565.8,-2576.9,-29793.6,-17786.3,-5299.8,(NA)
+98000,Far West,1,Real GDP (millions of chained 2017 dollars) 1,3629300.3,3797440.5,3956948.0,4108525.8,4048649.6,4342903.0,4385657.8,4497211.4
+98000,Far West,2,Chain-type quantity indexes for real GDP,95.572,100.000,104.200,108.192,106.615,114.364,115.490,118.427
+98000,Far West,3,Current-dollar GDP (millions of current dollars),3576784.8,3797440.5,4026579.0,4252235.2,4254017.1,4732878.5,5066773.7,5394905.1
+98000,Far West,4,Compensation (millions of dollars),1900909.1,2013796.5,2131811.4,2248810.5,2311187.8,2545037.4,2678381.1,(NA)
+98000,Far West,5,Gross operating surplus (millions of dollars),1442582.5,1539392.9,1627745.7,1707062.9,1745915.5,1941349.6,2050632.2,(NA)
+98000,Far West,6,Taxes on production and imports (TOPI) less subsides (millions of dollars),233293.1,244251.1,267021.8,296361.8,196913.9,246491.4,337760.4,(NA)
+98000,Far West,7,"  Taxes on production and imports (TOPI) (millions of dollars)",243504.7,254538.5,277719.2,307615.4,297506.5,331048.2,363509.3,(NA)
+98000,Far West,8,"  Subsidies (millions of dollars)",-10211.5,-10287.4,-10697.4,-11253.6,-100592.7,-84556.8,-25748.9,(NA)
+
+Legend/Footnotes
+"1. Real GDP is in millions of chained 2017 dollars. Calculations are performed on unrounded data. Chained (2017) dollar series are calculated as the product of the chain-type quantity index and the 2017 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP."
+(NA) Not available.
+"  Last updated: May 23, 2024-- revised statistics for 1997-2016."
