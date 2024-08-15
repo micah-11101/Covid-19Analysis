@@ -1,3 +1,4 @@
 # Covid-19 Analysis
-Group Members: \
+Group Members: 
 Viktor, Samantha, Nicholas, Mysee, Micah
+
