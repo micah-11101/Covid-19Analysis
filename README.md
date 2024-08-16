@@ -32,7 +32,7 @@ We created a plot that displays the change in reported cases that is run on a pe
 # Conclusion
 
 
-We can conclude that government policies impacted tourism revenue more than number of covid cases over time.
+We can conclude that government policies impacted tourism revenue more than covid infections did based on the fact that there is not a significant negative correlation between the two.
 
 # Citations
 https://medium.com/@alex_44314/use-python-geopandas-to-make-a-us-map-with-alaska-and-hawaii-39a9f5c222c6
