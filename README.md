@@ -20,6 +20,8 @@ The data we downloaded from John’s Hopkins’ GitHub repository was in .csv fo
 # Data Analysis Process
 To do the analysis, we ran a few different tests and presentations on the data:
 
+We compared tourist revenue to new covid cases by line plotting them on separate axises and comparing them overtime.
+
 # Hypothesis Testing
 We tested multiple different hypothesis:
 
@@ -28,6 +30,9 @@ We created a plot that displays the change in reported cases that is run on a pe
 
 
 # Conclusion
+
+
+We can conclude that government policies impacted tourism revenue more than number of covid cases over time.
 
 # Citations
 https://medium.com/@alex_44314/use-python-geopandas-to-make-a-us-map-with-alaska-and-hawaii-39a9f5c222c6
