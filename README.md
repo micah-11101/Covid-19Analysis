@@ -1,4 +1,7 @@
 # Covid-19 Analysis
+##Slideshow link
+https://docs.google.com/presentation/d/1zp9_nsBdyLWnar-rFfKYB7Uz6HtSrmG6A69vFGSW1aM/edit?usp=sharing
+
 Group Members: 
 Viktor, Samantha, Nicholas, Mysee, Micah
 
