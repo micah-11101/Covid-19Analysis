@@ -28,3 +28,7 @@ We created a plot that displays the change in reported cases that is run on a pe
 
 
 # Conclusion
+
+# Citations
+https://medium.com/@alex_44314/use-python-geopandas-to-make-a-us-map-with-alaska-and-hawaii-39a9f5c222c6
+> Used this to create the visualization of the map
