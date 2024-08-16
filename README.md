@@ -22,6 +22,8 @@ To do the analysis, we ran a few different tests and presentations on the data:
 
 We compared tourist revenue to new covid cases by line plotting them on separate axises and comparing them overtime.
 
+The COVID-19 infection data was pulled from the John Hopkins GitHub repository. It was cleaned and then extracted into new data frames for Minnesota and the United States. Bar charts were used to visualize the total COVID-19 infections for Minnesota (by county) and the United States (by state). Line graphs were used to visualize the top five counties in Minnesota with the highest COVID-19 infections from February 2020 to February 2023 and the top five states with the highest COVID-19 infections from February 2020 to February 2023.
+
 # Hypothesis Testing
 We tested multiple different hypothesis:
 
@@ -33,6 +35,10 @@ We created a plot that displays the change in reported cases that is run on a pe
 
 
 We can conclude that government policies impacted tourism revenue more than covid infections did based on the fact that there is not a significant negative correlation between the two.
+
+Minnesota’s highest total COVID-19 infections were Hennepin county, Ramsey county, Anoka county, Dakota county, and Washington county. These counties are also a part of Minnesota’s Twin Cities metropolitan area where it is highly dense with residential and commercial zones. The other counties of Minnesota were also infected with COVID-19 but their total infections were not as high in count.
+The United States’ total COVID-19 infections were California, Texas, Florida, New York, and Illinois. These states are states with high traffic of tourism and large metropolitan cities. The other states and provinces were also infected with COVID-19 but their total infections were not as high in count.
+
 
 # Citations
 https://medium.com/@alex_44314/use-python-geopandas-to-make-a-us-map-with-alaska-and-hawaii-39a9f5c222c6
