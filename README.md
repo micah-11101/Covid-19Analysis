@@ -21,7 +21,7 @@ The data we downloaded from John’s Hopkins’ GitHub repository was in .csv fo
 To do the analysis, we ran a few different tests and presentations on the data:
 
 Hypothesis Testing
-We tested multiple different hypothesis: 
+We tested multiple different hypothesis:\n 
 GeoPolygon Plot
 We created a plot that displays the change in reported cases that is run on a per 100k population basis to give a better understanding of the change over time. 
 
